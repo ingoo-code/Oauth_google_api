@@ -1,0 +1,24 @@
+{
+  "name": "Oauth_google_api",
+  "version": "1.0.0",
+  "description": "구글API이용한 로그인 만들기.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingoo-code/Oauth_google_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingoo-code/Oauth_google_api/issues"
+  },
+  "homepage": "https://github.com/ingoo-code/Oauth_google_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "passport": "^0.4.1"
+  }
+}
